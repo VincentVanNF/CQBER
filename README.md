@@ -10,7 +10,7 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 
 ![framework](./figures/framework.png "framework")
 
-### Visualization
+### Visualizationgit remote set-url origin https://`<username>`:<personal_access_token>@github.com/`<your-repo>`.git
 
 ![visual](./figures/visual.png "visualization")
 
