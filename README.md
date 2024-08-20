@@ -1,3 +1,4 @@
+
 # Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron
 
 PyTorch implementation for the paper "Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron"
@@ -10,26 +11,23 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 
 <div style="text-align: center;">
     <img src="./figures/visual.png">
-    <p><strong>Figure 1: Visualizations of event retrieval results using our
-MEP method on the TVR-CQ dataset</strong></p>
 </div>
 
+    Figure 1: Visualizations of event retrieval results using our MEP method on the TVR-CQ dataset
 
 <div style="text-align: center;">
     <img src="./figures/visual2.png">
-    <p><strong>Figure 2: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.</strong></p>
 </div>
 
-
+    Figure 2: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.
 
 ### Framework
 
 <div style="text-align: center;">
     <img src="./figures/framework.png" height=800>
-    <p><strong>Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
 </div>
 
-
+    Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron
 
 > The codes are modified from [ReLoCLNet](https://github.com/26hzhang/ReLoCLNet)
 
