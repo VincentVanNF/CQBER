@@ -9,14 +9,15 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 ### Visualization
 
 <div style="text-align: center;">
-    <img src="https://s2.loli.net/2024/08/20/ELjwQYl5icqudn2.png">
+    <!-- <img src="https://s2.loli.net/2024/08/20/ELjwQYl5icqudn2.png"> -->
+    <img src="figures/visual.png">
     <p><strong>Figure 1: Visualizations of event retrieval results using our
 MEP method on the TVR-CQ dataset</strong></p>
 </div>
 
 
 <div style="text-align: center;">
-    <img src="https://s2.loli.net/2024/08/20/kbeinLYEfOuKHlZ.png">
+    <img src="figures/visual2.png">
     <p><strong>Figure 2: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.</strong></p>
 </div>
 
@@ -25,7 +26,8 @@ MEP method on the TVR-CQ dataset</strong></p>
 ### Framework
 
 <div style="text-align: center;">
-    <img src="https://s2.loli.net/2024/08/20/47WoGvgiLweyjrf.png" height=800>
+    <!-- <img src="https://s2.loli.net/2024/08/20/47WoGvgiLweyjrf.png" height=800> -->
+    <img src="figures/framework.png" height=800>
     <p><strong>Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
 </div>
 
