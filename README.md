@@ -9,15 +9,15 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 ### Visualization
 
 <div style="text-align: center;">
-    <img src="./figures/visual.png">
-    <p><strong>Figure 1: Visualizations of event retrieval results using our
+<p style="text-align: center;" left=50% ><strong>Figure 1: Visualizations of event retrieval results using our
 MEP method on the TVR-CQ dataset</strong></p>
+    <img src="./figures/visual.png">
 </div>
 
 
 <div style="text-align: center;">
+<p style="text-align: center;" left=50% ><strong>Figure 2: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.</strong></p>
     <img src="./figures/visual2.png">
-    <p><strong>Figure 2: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.</strong></p>
 </div>
 
 
