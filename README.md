@@ -8,11 +8,11 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 
 ### Visualization
 
-<img src="./figures/visual.png" alt="visualization" height="250">     
+<img src="./figures/visual.png" alt="visualization">
 
 ### Framework
 
-<img src="./figures/framework.png" alt="framework" height="400">
+<img src="./figures/framework.png" alt="framework" height="500">
 
 > The codes are modified from [ReLoCLNet](https://github.com/26hzhang/ReLoCLNet)
 
