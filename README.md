@@ -1,4 +1,3 @@
-
 # Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron
 
 PyTorch implementation for the paper "Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron"
@@ -24,8 +23,8 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 ### Framework
 
 <div style="text-align: center;">
-    <img src="./figures/framework.pn" height=800>
-</div
+    <img src="./figures/framework.png" height=800>
+</div>
 
     Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron
 
