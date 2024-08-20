@@ -25,8 +25,10 @@ MEP method on the TVR-CQ dataset</strong></p>
 ### Framework
 
 <div style="text-align: center;">
-	<p style="text-align: center;"><strong>Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
     <img src="./figures/framework.png" height=800>
+<p style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; color: white; background-color: rgba(0, 0, 0, 0.5); margin: 0;">
+        <strong>Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong>
+    </p>
 </div>
 
 
