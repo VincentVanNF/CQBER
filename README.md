@@ -8,25 +8,36 @@ We propose a novel and more practical event retrieval framework termed **C**ompo
 
 ### Visualization
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <img src="./figures/visual.png">
-</div>
+</div> -->
 
-    Figure 1: Visualizations of event retrieval results using our MEP method on the TVR-CQ dataset
 
-<div style="text-align: center;">
+![](./figures/visual.png)
+<center style="margin-top: -30px; margin-bottom: 10px;">
+    Figure 1: Visualizations of event retrieval results using our MEP method on the TVR-CQ dataset.
+</center>
+
+<!-- <div style="text-align: center;">
     <img src="./figures/visual2.png">
-</div>
+</div> -->
 
+
+
+![](./figures/visual2.png)
+<center style="margin-top: -30px; margin-bottom: 10px;">
     Figure 2: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.
+</center>
 
 ### Framework
-
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <img src="./figures/framework.png" height=800>
-</div>
+</div> -->
 
-    Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron
+![](./figures/framework.png)
+<center style="margin-top: -30px; margin-bottom: 10px;">
+    Figure 3: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron.
+</center>
 
 > The codes are modified from [ReLoCLNet](https://github.com/26hzhang/ReLoCLNet)
 
