@@ -2,8 +2,8 @@
 
 PyTorch implementation for the paper "Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron"
 
-[TVR-CQ Features]()
-
+[TVR-CQ Video Features](https://drive.google.com/file/d/1CxaRtdpWfhtpSdVkObaLf-n6GeJyfAd8/view?usp=drive_link)
+<!-- [TVR-CQ Query Features]() -->
 We propose a novel and more practical event retrieval framework termed **C**omposed **Q**uery-**B**ased **E**vent **R**etrieval (CQBER), simulating human multimodal perception ability to improve accuracy and robustness in the retrieval process. Specifically, we first construct two CQBER benchmark datasets, namely ActivityNet-CQ and TVR-CQ, which cover TV shows and open-worldscenarios, respectively. Additionally, we propose a baseline CQBER method, termed **M**ultimodal **E**pisodic **P**erceptron (MEP), which excavates complete query semantics from both observed static visual cues and various descriptions. Extensive experiments demonstrate that our proposed framework significantly boosts event retrieval accuracy across five existing methods while highlighting the effectiveness of our proposed MEP method.
 
 ### Visualization
