@@ -62,7 +62,6 @@ conda install -c conda-forge transformers tensorboard tqdm easydict
 For the features of TVR dataset, please download it from [features](https://drive.google.com/file/d/1CxaRtdpWfhtpSdVkObaLf-n6GeJyfAd8/view?usp=drive_link) and extrct it to the features
 directory:
 
-
 ```shell
 $ tar -xjf video_feats.tar.bz2 -C features 
 ```
