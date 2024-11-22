@@ -9,14 +9,15 @@ significantly boosts event retrieval accuracy across different existing methods.
 
 ### Datasert Overview
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
     <img src="figures/datasets.png" >
     <p><strong>Figure 1: Supp. We compare our proposed TVR-CQ and ActivityNet-CQ datasets with original TVR and ActivityNet-Captions datasets in details.Perceptron</strong></p>
 </div>
 
 ### Framework
 
-<div style="text-align: center;">
+
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
     <img src="figures/framework.png" height=400px>
     <p><strong>Figure 2: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
 </div>
@@ -24,7 +25,7 @@ significantly boosts event retrieval accuracy across different existing methods.
 
 ### Performance
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
     <img src="figures/supp_performance.png" >
     <p><strong>Figure 3: Supp. Additional ablation studies regarding the key model components on the TVR-CQ datasetPerceptron</strong></p>
 </div>
@@ -32,13 +33,14 @@ significantly boosts event retrieval accuracy across different existing methods.
 
 ### Visualization
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
 <img src="figures/visual.png" height=400px>
     <p><strong>Figure 4: Visualizations of event retrieval results using our MEP
 method on the TVR-CQ dataset </strong></p>
 </div>
 
-<div style="text-align: center;">
+
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
     <img src="figures/visual2.png" height=300px>
     <p><strong>Figure 5: Visualizations of episodic perception in composed
 queries. Here we adopt the attention from the last VLCU layer. </strong></p>
@@ -46,9 +48,10 @@ queries. Here we adopt the attention from the last VLCU layer. </strong></p>
 
 
 
-<div style="text-align: center;">
-    <img src="figures/visual3.png" height=600px>
-    <p><strong>Figure 6: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset. </strong></p>
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+    `<img src="figures/visual3.png" height=600px>`
+    `<p><strong>`Figure 6: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset. `</strong></p>`
+
 </div>
 
 
