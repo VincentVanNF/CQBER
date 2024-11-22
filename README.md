@@ -48,10 +48,16 @@ queries. Here we adopt the attention from the last VLCU layer. </strong></p>
 
 
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <img src="figures/visual3.png" height=600px>
-    <p><strong>Figure 6: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset. </strong></p>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="figures/visual3.png" height="600px" alt="Figure 6">
+      <p><strong>Figure 6: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset.</strong></p>
+    </td>
+  </tr>
+</table>
+
 
 > The codes are modified from [ReLoCLNet](https://github.com/26hzhang/ReLoCLNet)
 
