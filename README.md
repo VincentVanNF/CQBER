@@ -7,27 +7,48 @@ PyTorch implementation for the paper "Composed Query-Based Event Retrieval in Vi
 We propose a novel event retrieval framework termed Composed Query-Based Event Retrieval (CQBER), simulating the multi-modal perception ability of humans to improve accuracy in the retrieval process. Specifically, we first construct two CQBER benchmark datasets, namely ActivityNet-CQ and TVR-CQ, which cover TV shows and open-world scenarios,respectively. Additionally, we propose an initial CQBER method, termed Multimodal Episodic Perceptron (MEP),which excavates complete query semantics from both observed static visual cues and various descriptions. Extensive experiments demonstrate that our proposed framework
 significantly boosts event retrieval accuracy across different existing methods.
 
-### Framework
-
+### Datasert Overview
 
 <div style="text-align: center;">
-    <img src="figures/framework.png" height=800>
-    <p><strong>Figure 1: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
+    <img src="figures/datasets.png" >
+    <p><strong>Figure 1: Supp. We compare our proposed TVR-CQ and ActivityNet-CQ datasets with original TVR and ActivityNet-Captions datasets in details.Perceptron</strong></p>
+</div>
+
+### Framework
+
+<div style="text-align: center;">
+    <img src="figures/framework.png" height=400px>
+    <p><strong>Figure 2: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
+</div>
+
+
+### Performance
+
+<div style="text-align: center;">
+    <img src="figures/supp_performance.png" >
+    <p><strong>Figure 3: Supp. Additional ablation studies regarding the key model components on the TVR-CQ datasetPerceptron</strong></p>
 </div>
 
 
 ### Visualization
 
 <div style="text-align: center;">
-<img src="figures/visual.png">
-    <p><strong>Figure 2: Visualizations of event retrieval results using our MEP
+<img src="figures/visual.png" height=400px>
+    <p><strong>Figure 4: Visualizations of event retrieval results using our MEP
 method on the TVR-CQ dataset </strong></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="figures/visual2.png">
-    <p><strong>Figure 3: Visualizations of episodic perception in composed
+    <img src="figures/visual2.png" height=300px>
+    <p><strong>Figure 5: Visualizations of episodic perception in composed
 queries. Here we adopt the attention from the last VLCU layer. </strong></p>
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="figures/visual3.png" height=600px>
+    <p><strong>Figure 6: More visualizations of episodic perception and event retrieval results using our MEP method on the TVR-CQ dataset. </strong></p>
 </div>
 
 
