@@ -17,10 +17,14 @@ significantly boosts event retrieval accuracy across different existing methods.
 ### Framework
 
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<table align="center">
+  <tr>
+    <td align="center">
     <img src="figures/framework.png" height=400px>
     <p><strong>Figure 2: An overview of the CQBER framework based on our proposed Multimodal Episodic Perceptron</strong></p>
-</div>
+</td>
+ </tr>
+</table>
 
 
 ### Performance
@@ -33,20 +37,26 @@ significantly boosts event retrieval accuracy across different existing methods.
 
 ### Visualization
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<table align="center">
+  <tr>
+    <td align="center">
 <img src="figures/visual.png" height=400px>
     <p><strong>Figure 4: Visualizations of event retrieval results using our MEP
 method on the TVR-CQ dataset </strong></p>
-</div>
+</td>
+</tr>
+</table>
 
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<table align="center">
+  <tr>
+    <td align="center">
     <img src="figures/visual2.png" height=300px>
     <p><strong>Figure 5: Visualizations of episodic perception in composed
-queries. Here we adopt the attention from the last VLCU layer. </strong></p>
-</div>
-
-
+queries. Here we adopt the attention from the last VLCU layer. </strong></p>  
+</td>
+</tr>
+</table>
 
 
 <table align="center">
